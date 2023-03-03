@@ -8,4 +8,4 @@ If you enter yes, it will act as if that was the word you originally typed. Othe
 
 If the word you typed is not a similar match to anything, the program will end.
 
-The list of words is placed into a hashmap to reduce time.
+The list of words is placed into a hashmap to reduce search time.
